@@ -1,12 +1,11 @@
 package programmingAssignment3;
 
 /**
-* LAB 8: Update the book class to implement the Comparable interface
 *
 * This class is a simple representation of a book. The data members are
 * fairly simple in order to make this class easier to use as an example.
 *
-* @author Christine Reilly
+* @author rossmpowell
 */
 public class Book implements Comparable<Book> {
     /** The title of this book */

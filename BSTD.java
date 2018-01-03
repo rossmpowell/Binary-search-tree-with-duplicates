@@ -1,9 +1,10 @@
 package programmingAssignment3;
 
+/**
+ * This class represents a Binary search tree that can take duplicate values of an object <T>
+ * @author rosspowell
+ */
 public class BSTD<T extends Comparable<T>> {
-	
-	
-	
     /** The root node of this tree */
     private BTDNode<T> root;
 
